@@ -2,7 +2,7 @@
 
 ## Build with
   ### • Languages
-  • MySQL
+  • MySQL\n
   • Python
   ### • Tools
   • Tableau
